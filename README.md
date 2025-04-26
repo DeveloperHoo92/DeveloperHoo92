@@ -1,7 +1,8 @@
-## printf("Hi there 👋");
+## printf("Hello, Everyone!! Ho Ho Ho");
 
+✨✨✨ !!! This is my GitHub for personal projects. I have a separate GitHub for team projects. !!! ✨✨✨
 
-DeveloperHoo92 is a ✨ _special_ ✨ repository!
+- 👋 I am currently working with and studying programming languages such as C#, Python, Flutter, and C.
 
 - 🔭 I am currently creating a mobile game using Unity.
   
