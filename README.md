@@ -4,9 +4,9 @@
 
 - 👋 I am currently working with and studying programming languages such as C#, Python, Flutter, and C.
 
+- 🌱 I am also studying data structures, algorithms, and operating systems.
+
 - 🔭 I am currently creating a mobile game using Unity.
-  
-- 🌱 I am also learning Flutter and Python, and studying data structures, algorithms, and operating systems.
   
 - 🤔 Every time I write a line of code, it feels satisfying, like tasting something delicious.
   
