@@ -46,7 +46,7 @@
 <a href="https://www.linkedin.com/in/%EC%83%81%ED%9B%84-%EA%B9%80-4992a1264" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://www.youtube.com/Pupydeveloper_92" target="_blank">
+  <a href="https://www.youtube.com/c/@Pupydeveloper_92" target="_blank">
     <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube" alt="YouTube">
   </a>
 
