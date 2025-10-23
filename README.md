@@ -43,14 +43,6 @@
 
 ---
 
-<!-- 전체 통계 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperHoo92&show_icons=true&theme=radical)
-
-<!-- 언어별 사용량 -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHoo92&layout=compact&theme=radical)
-
----
-
 <!-- 🌐 소셜 미디어 / 링크 섹션 -->
 <h3>🌐 Connect with me:</h3>
 
