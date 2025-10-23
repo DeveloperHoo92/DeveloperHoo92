@@ -32,18 +32,6 @@
 
 ---
 
-<!-- 📊 GitHub 통계 카드 -->
-<h3>📊 GitHub Stats</h3>
-
-<p align="left">  <!-- 가운데 정렬 -->
-  <!-- GitHub의 활동 통계를 보여주는 이미지 (github-readme-stats 서비스 사용) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DeveloperHoo92&show_icons=true&theme=radical" alt="stats" />
-  <!-- 가장 많이 사용한 언어 통계 카드 -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHoo92&layout=compact&theme=radical" alt="top-langs" />
-</div>
-
----
-
 <!-- 🌐 소셜 미디어 / 링크 섹션 -->
 <h3>🌐 Connect with me:</h3>
 
