@@ -27,7 +27,7 @@
   ---
 
   <!-- 🧰 개발 도구 (Development Tools) -->
-<p align="left">
+<div align="left">
   <!-- Visual Studio -->
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>  <!-- Visual Studio 사용 -->
 
