@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Sanghoo Kim]</h1>  <!-- 페이지 맨 위 중앙에 큰 제목으로 이름 출력 -->
+<h1 align="center">Hi 👋, I'm [Hoo]</h1>  <!-- 페이지 맨 위 중앙에 큰 제목으로 이름 출력 -->
 <h3 align="center">I am currently working as a solo developer.</h3>  <!-- 부제목: 하는 일 또는 관심사 -->
 
 ---
