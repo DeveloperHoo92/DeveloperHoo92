@@ -11,35 +11,20 @@
 ---
 
 <!-- 🛠️ 기술 스택(Tech Stack) 제목 -->
-<h3>🚀 Tech Stack</h3>
+<h3>🚀 Tech Stack & Tools</h3>
 
-<div align="left">  <!-- 아이콘(뱃지)들을 왼쪽 정렬로 묶는 태그 시작 -->
-
-  <!-- 각 뱃지는 shields.io에서 가져온 이미지로 기술 로고를 표시 -->
-
-  <!-- 프로그래밍 언어 -->
-  <!-- C# -->
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>  <!-- C# 사용 -->
-  
-  <!-- C -->
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>  <!-- C 언어 사용 -->
-
-  ---
-
-  <!-- 🧰 개발 도구 (Development Tools) -->
 <div align="left">
-  <!-- Visual Studio -->
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>  <!-- Visual Studio 사용 -->
+  <!-- 프로그래밍 언어 -->
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 
-  <!-- Git -->
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>  <!-- Git 사용 -->
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  <!-- GitHub 사용 -->
-
-  <!-- Linux -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <!-- Linux 사용 -->
+  <!-- 개발 도구 -->
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
 </div>
+
 
 
 </div>  <!-- 기술 아이콘 구역 끝 -->
