@@ -4,8 +4,8 @@
 ---
 
 <!-- 🧠 자기소개 섹션 -->
-🌱 I mainly develop using C# with Unity, and I'm currently learning C and Linux.**  <!-- 현재 배우는 기술 -->
-💬 I’m also studying data structures, algorithms, and operating systems on my own.**  <!-- 잘 아는 분야 / 질문 환영 -->
+🌱 I mainly develop using C# with Unity, and I'm currently learning C and Linux.**.<br>  <!-- 현재 배우는 기술 -->
+💬 I’m also studying data structures, algorithms, and operating systems on my own.**.<br>  <!-- 잘 아는 분야 / 질문 환영 -->
 ⚡ Fun fact: I love coding and clean commits ☕  <!-- 재미있는 개인 정보나 특징 -->
 
 ---
@@ -13,7 +13,7 @@
 <!-- 🛠️ 기술 스택(Tech Stack) 제목 -->
 <h3>🚀 Tech Stack</h3>
 
-<p align="left">  <!-- 아이콘(뱃지)들을 왼쪽 정렬로 묶는 태그 시작 -->
+<div align="left">  <!-- 아이콘(뱃지)들을 왼쪽 정렬로 묶는 태그 시작 -->
 
   <!-- 각 뱃지는 shields.io에서 가져온 이미지로 기술 로고를 표시 -->
 
@@ -39,10 +39,10 @@
 
   <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>  <!-- Linux 사용 -->
-</p>
+</div>
 
 
-</p>  <!-- 기술 아이콘 구역 끝 -->
+</div>  <!-- 기술 아이콘 구역 끝 -->
 
 ---
 
@@ -54,19 +54,19 @@
   <img src="https://github-readme-stats.vercel.app/api?username=DeveloperHoo92&show_icons=true&theme=radical" alt="stats" />
   <!-- 가장 많이 사용한 언어 통계 카드 -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperHoo92&layout=compact&theme=radical" alt="top-langs" />
-</p>
+</div>
 
 ---
 
 <!-- 🌐 소셜 미디어 / 링크 섹션 -->
 <h3>🌐 Connect with me:</h3>
 
-<p align="left">
+<div align="left">
   <!-- Threads 프로필 링크 -->
   <a href="https://www.threads.net/@mister_kim_ko" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
   </a>
-</p>
+</div>
 
 ---
 
