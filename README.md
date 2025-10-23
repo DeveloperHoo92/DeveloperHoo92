@@ -48,7 +48,7 @@
 
 <div align="left">
   <!-- Threads 프로필 링크 -->
-  <a href="https://www.threads.net/@mister_kim_ko" target="_blank">
+  <a href="https://www.threads.com/@mister_kim_ko" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
   </a>
 </div>
