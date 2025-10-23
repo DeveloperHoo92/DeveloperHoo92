@@ -13,7 +13,7 @@
 <!-- 🛠️ 기술 스택(Tech Stack) 제목 -->
 <h3>🚀 Tech Stack</h3>
 
-<div align="left">  <!-- 아이콘(뱃지)들을 왼쪽 정렬로 묶는 태그 시작 -->
+<div align="center">  <!-- 아이콘(뱃지)들을 왼쪽 정렬로 묶는 태그 시작 -->
 
   <!-- 각 뱃지는 shields.io에서 가져온 이미지로 기술 로고를 표시 -->
 
@@ -27,7 +27,7 @@
   ---
 
   <!-- 🧰 개발 도구 (Development Tools) -->
-<p align="left">
+<p align="center">
   <!-- Visual Studio -->
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>  <!-- Visual Studio 사용 -->
 
@@ -61,7 +61,7 @@
 <!-- 🌐 소셜 미디어 / 링크 섹션 -->
 <h3>🌐 Connect with me:</h3>
 
-<div align="left">
+<div align="center">
   <!-- Threads 프로필 링크 -->
   <a href="https://www.threads.net/@mister_kim_ko" target="_blank">
     <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
