@@ -44,5 +44,16 @@
 
 ---
 
+<h3>Education</h3>
+
+<div align="left">
+  <!-- Threads 프로필 링크 -->
+  <a href="https://www.threads.com/@mister_kim_ko" target="_blank">
+    <img src="https://img.shields.io/badge/Metaverse Academy-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
+  </a>
+</div>
+
+---
+
 <!-- README 하단에 서명 -->
 ⭐ From [DeveloperHoo92](https://github.com/DeveloperHoo92)  <!-- 본인 깃허브 링크로 서명 -->
