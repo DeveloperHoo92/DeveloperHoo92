@@ -143,7 +143,7 @@ Since every project was team-based, I learned the importance of proper role dist
 
 Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. 
 
-Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills.
+Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills..
   
 </div>
 
