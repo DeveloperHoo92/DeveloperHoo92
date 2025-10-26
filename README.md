@@ -9,6 +9,52 @@
 
 ---
 
+<h3>What i did in 2025:</h3>
+
+1. I have completed the release of a single-player game on Android Studio.
+
+2. Failed 6 times over 2 years, then restarted YouTube.
+
+3. Failed 11 times over 3 years, then restarted social media.
+
+4. Completed one full round of studying and organizing C language.
+
+5. Completed one full round of studying and organizing C# language.
+
+---
+
+<h3>Things I will do in the future:</h3>
+
+1. Organize useful Unity features.
+
+2. Master Linux.
+
+3. Master English through Duolingo.
+
+4. Study and review Russian.
+
+5. Create a simple game using C.
+
+6. Create a simple game using C#.
+
+7. Study Python again.
+
+8. Create a simple program using Python.
+
+9. Challenge myself with a new game in Unity and update existing games.
+
+10. Study information security.
+
+11. Reach 100 million followers on social media.
+
+12. Reach 10 million subscribers on YouTube.
+
+13. Review and organize Figma knowledge.
+
+14. Study and organize Blender, create projects, and upload them to social media.
+
+---
+
 <h3>Tech Stack & Tools:</h3>
 
 <div align="left">
