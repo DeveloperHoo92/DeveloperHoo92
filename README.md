@@ -44,6 +44,9 @@ Through this program, I learned that the best way to truly master something is t
 <a href="https://mtvs.kr/user/main" target="_blank">
   <img src="https://img.shields.io/badge/Metaverse%20Academy-F05032?style=flat-square"/>
 </a><br>
+At Metaverse Academy, everything was new to me, so even setting up the development environment was challenging, and I occasionally ran into issues connecting simple projects with GitHub. I worked on two imitation projects and two original projects, using Unity as the editor and C# as the main programming language. Since every project was team-based, I learned the importance of proper role distribution and time coordination.
+
+Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills.
 
 <a href="https://togudv.ru/en/" target="_blank">
   <img src="https://img.shields.io/badge/Pacific%20National%20University-000000?style=flat-square"/>
