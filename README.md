@@ -9,7 +9,7 @@
 
 ---
 
-<h3>Tech Stack & Tools</h3>
+<h3>Tech Stack & Tools:</h3>
 
 <div align="left">
   <!-- 프로그래밍 언어 -->
@@ -30,7 +30,7 @@
 
 ---
 
-<h3>Education</h3>
+<h3>Education:</h3>
 
 <div align="left">
 
