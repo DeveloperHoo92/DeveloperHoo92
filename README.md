@@ -21,6 +21,8 @@
 
 5. Completed one full round of studying and organizing C# language.
 
+6. Challenge myself by applying to the Apple Developer Academy.
+
 ---
 
 <h3>Things I will do in the future:</h3>
