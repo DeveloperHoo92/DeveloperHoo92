@@ -85,7 +85,9 @@
 </a><br>
   The 42 Gyeongsan program mainly focused on learning the C language in a Linux environment. 
   
-  There were no textbooks or professors — we had to learn and teach ourselves. In the beginning, no one really had the answers, and even when we asked the mentors for help, they encouraged us to find solutions on our own. 
+  There were no textbooks or professors — we had to learn and teach ourselves. 
+  
+  In the beginning, no one really had the answers, and even when we asked the mentors for help, they encouraged us to find solutions on our own. 
   
   At first, I was confused since they wouldn’t even answer simple questions, but I found the experience refreshing and fully immersed myself in the program. 
   
@@ -98,7 +100,9 @@
 </a><br>
 At Metaverse Academy, everything was new to me, so even setting up the development environment was challenging, and I occasionally ran into issues connecting simple projects with GitHub. 
 
-I worked on two imitation projects and two original projects, using Unity as the editor and C# as the main programming language. Since every project was team-based, I learned the importance of proper role distribution and time coordination.
+I worked on two imitation projects and two original projects, using Unity as the editor and C# as the main programming language. 
+
+Since every project was team-based, I learned the importance of proper role distribution and time coordination.
 
 Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. 
 
