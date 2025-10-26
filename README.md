@@ -51,14 +51,10 @@
 <a href="https://42gyeongsan.kr/ko/index.do" target="_blank">
     <img src="https://img.shields.io/badge/42gyeongsan-FCC624?style=flat-square&logo=42gyeongsan&logoColor=white"/>  
   </a>
-  
   <a href="https://mtvs.kr/user/main" target="_blank">
     <img src="https://img.shields.io/badge/Metaverse Academy-F05032?style=flat-square&logo=MetaverseAcademy&logoColor=white"/>  
   </a>
-
-<a href="https://togudv.ru/en/" target="_blank">
     <img src="https://img.shields.io/badge/pacific national university-000000?style=flat-square&logo=pacific national university&logoColor=white"/>  
-  </a>
   
 </div>
 
