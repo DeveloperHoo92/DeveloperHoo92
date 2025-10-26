@@ -4,7 +4,9 @@
 ---
 
 🌱 I mainly develop using C# with Unity, and I'm currently learning C and Linux<br>  <!-- 현재 배우는 기술 -->
+
 💬 I’m also studying data structures, algorithms, and operating systems on my own<br>  <!-- 잘 아는 분야 / 질문 환영 -->
+
 ⚡ Fun fact: I love coding and clean commits ☕  
 
 ---
