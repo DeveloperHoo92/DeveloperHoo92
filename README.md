@@ -83,25 +83,49 @@
 <a href="https://42gyeongsan.kr/ko/index.do" target="_blank">
   <img src="https://img.shields.io/badge/42Gyeongsan-FCC624?style=flat-square"/>
 </a><br>
-  The 42 Gyeongsan program mainly focused on learning the C language in a Linux environment. There were no textbooks or professors — we had to learn and teach ourselves. In the beginning, no one really had the answers, and even when we asked the mentors for help, they encouraged us to find solutions on our own. At first, I was confused since they wouldn’t even answer simple questions, but I found the experience refreshing and fully immersed myself in the program. Fortunately, I had peers who, like me, were eager to learn and happy to share their knowledge, which made the process much easier.
+  The 42 Gyeongsan program mainly focused on learning the C language in a Linux environment. 
+  
+  There were no textbooks or professors — we had to learn and teach ourselves. In the beginning, no one really had the answers, and even when we asked the mentors for help, they encouraged us to find solutions on our own. 
+  
+  At first, I was confused since they wouldn’t even answer simple questions, but I found the experience refreshing and fully immersed myself in the program. 
+  
+  Fortunately, I had peers who, like me, were eager to learn and happy to share their knowledge, which made the process much easier.
 
-Through this program, I learned that the best way to truly master something is to teach it to others — only then does that knowledge become your own.
+  Through this program, I learned that the best way to truly master something is to teach it to others — only then does that knowledge become your own.
 
 <a href="https://mtvs.kr/user/main" target="_blank">
   <img src="https://img.shields.io/badge/Metaverse%20Academy-F05032?style=flat-square"/>
 </a><br>
-At Metaverse Academy, everything was new to me, so even setting up the development environment was challenging, and I occasionally ran into issues connecting simple projects with GitHub. I worked on two imitation projects and two original projects, using Unity as the editor and C# as the main programming language. Since every project was team-based, I learned the importance of proper role distribution and time coordination.
+At Metaverse Academy, everything was new to me, so even setting up the development environment was challenging, and I occasionally ran into issues connecting simple projects with GitHub. 
 
-Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills.
+I worked on two imitation projects and two original projects, using Unity as the editor and C# as the main programming language. Since every project was team-based, I learned the importance of proper role distribution and time coordination.
+
+Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. 
+
+Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills.
 
 <a href="https://togudv.ru/en/" target="_blank">
   <img src="https://img.shields.io/badge/Pacific%20National%20University-239120?style=flat-square"/>
 </a><br>
-I studied at a university in Khabarovsk, Russia, majoring in Civil Engineering, and successfully completed my degree. When I first went to Russia, I only knew the alphabet and a few basic phrases for daily life. Naturally, it was difficult to adapt to the classes at first, and communication with classmates was challenging. There were moments when I even thought about giving up and returning to Korea.
+I studied at a university in Khabarovsk, Russia, majoring in Civil Engineering, and successfully completed my degree. 
 
-However, I realized that if I couldn’t overcome this hardship, I wouldn’t be able to handle greater challenges in the future. So, I pushed myself to speak at least one more sentence each day and made an effort to communicate actively with my professors. I was the only foreign student in my department, but perhaps because they saw how hard I was trying, my professors gave me tremendous support. In some subjects, I even earned top grades purely through dedication and persistence.
+When I first went to Russia, I only knew the alphabet and a few basic phrases for daily life. 
 
-By my third year, I had reached a level where I could help teach my Russian classmates, and by the time I presented my senior thesis, I ranked in the top 20% of my class. Perseverance and determination — that’s who I am.
+Naturally, it was difficult to adapt to the classes at first, and communication with classmates was challenging. 
+
+There were moments when I even thought about giving up and returning to Korea.
+
+However, I realized that if I couldn’t overcome this hardship, I wouldn’t be able to handle greater challenges in the future. 
+
+So, I pushed myself to speak at least one more sentence each day and made an effort to communicate actively with my professors. 
+
+I was the only foreign student in my department, but perhaps because they saw how hard I was trying, my professors gave me tremendous support. 
+
+In some subjects, I even earned top grades purely through dedication and persistence.
+
+By my third year, I had reached a level where I could help teach my Russian classmates, and by the time I presented my senior thesis, I ranked in the top 20% of my class. 
+
+Perseverance and determination — that’s who I am.
   
 </div>
 
