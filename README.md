@@ -36,10 +36,10 @@
 
 <a href="https://42gyeongsan.kr/ko/index.do" target="_blank">
   <img src="https://img.shields.io/badge/42Gyeongsan-FCC624?style=flat-square"/>
+</a><br>
   The 42 Gyeongsan program mainly focused on learning the C language in a Linux environment. There were no textbooks or professors — we had to learn and teach ourselves. In the beginning, no one really had the answers, and even when we asked the mentors for help, they encouraged us to find solutions on our own. At first, I was confused since they wouldn’t even answer simple questions, but I found the experience refreshing and fully immersed myself in the program. Fortunately, I had peers who, like me, were eager to learn and happy to share their knowledge, which made the process much easier.
 
 Through this program, I learned that the best way to truly master something is to teach it to others — only then does that knowledge become your own.
-</a><br>
 
 <a href="https://mtvs.kr/user/main" target="_blank">
   <img src="https://img.shields.io/badge/Metaverse%20Academy-F05032?style=flat-square"/>
