@@ -86,6 +86,37 @@
 
 <div align="left">
 
+<a href="https://togudv.ru/en/" target="_blank">
+  <img src="https://img.shields.io/badge/Pacific%20National%20University-239120?style=flat-square"/>
+</a><br>
+I studied at a university in Khabarovsk, Russia, majoring in Civil Engineering, and successfully completed my degree. 
+
+When I first went to Russia, I only knew the alphabet and a few basic phrases for daily life. 
+
+Naturally, it was difficult to adapt to the classes at first, and communication with classmates was challenging. 
+
+There were moments when I even thought about giving up and returning to Korea.
+
+However, I realized that if I couldn’t overcome this hardship, I wouldn’t be able to handle greater challenges in the future. 
+
+So, I pushed myself to speak at least one more sentence each day and made an effort to communicate actively with my professors. 
+
+I was the only foreign student in my department, but perhaps because they saw how hard I was trying, my professors gave me tremendous support. 
+
+In some subjects, I even earned top grades purely through dedication and persistence.
+
+By my third year, I had reached a level where I could help teach my Russian classmates, and by the time I presented my senior thesis, I ranked in the top 20% of my class. 
+
+Perseverance and determination — that’s who I am.
+  
+</div>
+
+---
+
+<h3>Other experience:</h3>
+
+<div align="left">
+
 <a href="https://42gyeongsan.kr/ko/index.do" target="_blank">
   <img src="https://img.shields.io/badge/42Gyeongsan-FCC624?style=flat-square"/>
 </a><br>
@@ -113,29 +144,6 @@ Since every project was team-based, I learned the importance of proper role dist
 Through these experiences, I realized that in teamwork, collaboration skills are often more valuable than individual excellence. 
 
 Working in teams also helped me improve my communication abilities and develop smoother scheduling and coordination skills.
-
-<a href="https://togudv.ru/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Pacific%20National%20University-239120?style=flat-square"/>
-</a><br>
-I studied at a university in Khabarovsk, Russia, majoring in Civil Engineering, and successfully completed my degree. 
-
-When I first went to Russia, I only knew the alphabet and a few basic phrases for daily life. 
-
-Naturally, it was difficult to adapt to the classes at first, and communication with classmates was challenging. 
-
-There were moments when I even thought about giving up and returning to Korea.
-
-However, I realized that if I couldn’t overcome this hardship, I wouldn’t be able to handle greater challenges in the future. 
-
-So, I pushed myself to speak at least one more sentence each day and made an effort to communicate actively with my professors. 
-
-I was the only foreign student in my department, but perhaps because they saw how hard I was trying, my professors gave me tremendous support. 
-
-In some subjects, I even earned top grades purely through dedication and persistence.
-
-By my third year, I had reached a level where I could help teach my Russian classmates, and by the time I presented my senior thesis, I ranked in the top 20% of my class. 
-
-Perseverance and determination — that’s who I am.
   
 </div>
 
