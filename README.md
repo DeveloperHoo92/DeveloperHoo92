@@ -49,7 +49,7 @@
 <div align="left">
   <!-- Threads 프로필 링크 -->
   <a href="https://www.threads.com/@mister_kim_ko" target="_blank">
-    <img src="https://img.shields.io/badge/Metaverse Academy-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
+    <img src="https://img.shields.io/badge/Metaverse Academy-000000?style=flat-square&logo=MetaverseAcademy&logoColor=white"/>  <!-- Threads -->
   </a>
 </div>
 
