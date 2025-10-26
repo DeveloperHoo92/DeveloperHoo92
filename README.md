@@ -3,15 +3,13 @@
 
 ---
 
-<!-- 🧠 자기소개 섹션 -->
 🌱 I mainly develop using C# with Unity, and I'm currently learning C and Linux.**.<br>  <!-- 현재 배우는 기술 -->
 💬 I’m also studying data structures, algorithms, and operating systems on my own.**.<br>  <!-- 잘 아는 분야 / 질문 환영 -->
-⚡ Fun fact: I love coding and clean commits ☕  <!-- 재미있는 개인 정보나 특징 -->
+⚡ Fun fact: I love coding and clean commits ☕  
 
 ---
 
-<!-- 🛠️ 기술 스택(Tech Stack) 제목 -->
-<h3>🚀 Tech Stack & Tools</h3>
+<h3>Tech Stack & Tools</h3>
 
 <div align="left">
   <!-- 프로그래밍 언어 -->
@@ -32,18 +30,6 @@
 
 ---
 
-<!-- 🌐 소셜 미디어 / 링크 섹션 -->
-<h3>🌐 Connect with me:</h3>
-
-<div align="left">
-  <!-- Threads 프로필 링크 -->
-  <a href="https://www.threads.com/@mister_kim_ko" target="_blank">
-    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
-  </a>
-</div>
-
----
-
 <h3>Education</h3>
 
 <div align="left">
@@ -60,6 +46,18 @@
   <img src="https://img.shields.io/badge/Pacific%20National%20University-000000?style=flat-square"/>
 </a>
   
+</div>
+
+---
+
+<!-- 🌐 소셜 미디어 / 링크 섹션 -->
+<h3>Connect with me:</h3>
+
+<div align="left">
+  <!-- Threads 프로필 링크 -->
+  <a href="https://www.threads.com/@mister_kim_ko" target="_blank">
+    <img src="https://img.shields.io/badge/Threads-000000?style=flat-square&logo=threads&logoColor=white"/>  <!-- Threads -->
+  </a>
 </div>
 
 ---
