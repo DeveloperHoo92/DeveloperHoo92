@@ -22,6 +22,8 @@
 5. Completed one full round of studying and organizing C# language.
 
 6. Challenge myself by applying to the Apple Developer Academy.
+   
+7. Use and familiarize myself with Git and GitHub.
 
 ---
 
