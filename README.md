@@ -162,3 +162,11 @@ Working in teams also helped me improve my communication abilities and develop s
 8. Completed the 42 Gyeongsan program 1 month(La Picine).
 
 ---
+
+<h3>What i did in 2024:</h3>
+
+1. Studied basic C# and Unity, and completed the Metaverse Academy program.
+
+2. Resigned from the position of UI/UX Designer.
+
+---
