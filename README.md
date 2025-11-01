@@ -38,10 +38,7 @@
 
 <div align="left">
 
-<a href="https://togudv.ru/en/" target="_blank">
-  <img src="https://img.shields.io/badge/Pacific%20National%20University-239120?style=flat-square"/>
-</a><br>
-I studied at a university in Khabarovsk, Russia, majoring in Civil Engineering, and successfully completed my degree. 
+I studied at a university Russia, and successfully completed my degree. 
 
 When I first went to Russia, I only knew the alphabet and a few basic phrases for daily life. 
 
