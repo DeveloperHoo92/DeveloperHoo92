@@ -125,23 +125,21 @@ Working in teams also helped me improve my communication abilities and develop s
 
 5. Create a simple game using C.
 
-6. Create a simple game using C#.
+6. Study Python again.
 
-7. Study Python again.
+7. Create a simple program using Python.
 
-8. Create a simple program using Python.
+8. Challenge myself with a new game in Unity and update existing games.
 
-9. Challenge myself with a new game in Unity and update existing games.
+9. Study information security.
 
-10. Study information security.
+10. Reach 100 million followers on social media.
+    
+11. Reach 10 million subscribers on YouTube.
 
-11. Reach 100 million followers on social media.
+12. Review and organize Figma knowledge.
 
-12. Reach 10 million subscribers on YouTube.
-
-13. Review and organize Figma knowledge.
-
-14. Study and organize Blender, create projects, and upload them to social media.
+13. Study and organize Blender knowledge.
 
 ---
 
@@ -160,5 +158,7 @@ Working in teams also helped me improve my communication abilities and develop s
 6. Challenge myself by applying to the Apple Developer Academy.
    
 7. Use and familiarize myself with Git and GitHub.
+
+8. Completed the 42 Gyeongsan program 1 month(La Picine).
 
 ---
