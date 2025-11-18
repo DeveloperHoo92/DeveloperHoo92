@@ -142,7 +142,7 @@ Working in teams also helped me improve my communication abilities and develop s
 
 <h3>What i did in 2025:</h3>
 
-1. I have completed the release of a single-player game on Android Studio.
+1. I have completed the release of a single-player game on Android Studio. ( But not now. )
 
 2. Failed 6 times over 2 years, then restarted YouTube.
 
